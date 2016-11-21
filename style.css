@@ -1,0 +1,80 @@
+class.navbar-brand {
+    padding-bottom: 3em;
+	float: left;
+	background-color: #42dcf4;
+}
+body{
+	background-color: #FFB6C1;
+	padding-bottom: 3em;
+}
+
+.nav{
+	padding: 1.6em;
+}
+div.prod {
+	padding: 1em;
+	
+}
+class.active{
+	padding: 2em;
+}
+
+div.prod{
+	background-color: #FFB6C1;
+	color: black;	
+}
+p{
+	text-align:center;
+}
+div.container-fluid{
+	size: 100%;
+	background-color: #FFB6C1;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	
+}
+footer{
+	text-align: bottom;
+	background-color: #FFB6C1;
+	color: black;
+	float: bottom;
+}
+
+table {
+	background-color: #FFB6C1;
+	color: black;
+	
+}
+div.row{
+	background-color: #FFB6C1;
+	color: black;
+}
+
+div.form{
+	text-align:left;
+	padding: 1em;
+}
+form.form-horizontal{
+	text-align:left;
+}
+div.quote{
+	padding-top: 1em;
+}
+/*.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+*/
+
+class.btn-info{
+	color: white;
+}
+
